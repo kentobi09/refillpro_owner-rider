@@ -1,6 +1,6 @@
 # refillpro_owner_rider
 
-A new Flutter project.
+Refill Pro is an app for making delivering water easier locally on Tuguegarao City
 
 ## Getting Started
 
